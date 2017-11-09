@@ -2015,3 +2015,6 @@ class MusicBot(discord.Client):
 if __name__ == '__main__':
     bot = MusicBot()
     bot.run()
+    
+    //
+    client.login(process.env.BOT_TOKEN)
